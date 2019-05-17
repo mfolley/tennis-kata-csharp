@@ -1,0 +1,14 @@
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\TennisKata2.deps.json
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\TennisKata2.runtimeconfig.json
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\TennisKata2.runtimeconfig.dev.json
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\TennisKata2.dll
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\bin\Debug\netcoreapp2.0\TennisKata2.pdb
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\obj\Debug\netcoreapp2.0\TennisKata2.csprojResolveAssemblyReference.cache
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\obj\Debug\netcoreapp2.0\TennisKata2.csproj.CoreCompileInputs.cache
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\obj\Debug\netcoreapp2.0\TennisKata2.AssemblyInfoInputs.cache
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\obj\Debug\netcoreapp2.0\TennisKata2.AssemblyInfo.cs
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\obj\Debug\netcoreapp2.0\TennisKata2.dll
+C:\Users\mfoll\source\repos\TennisKata2\TennisKata2\obj\Debug\netcoreapp2.0\TennisKata2.pdb
