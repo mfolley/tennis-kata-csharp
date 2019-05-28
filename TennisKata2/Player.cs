@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TennisKata2
+namespace TennisKata
 {
     internal class Player
     {

@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace TennisKata2
+namespace TennisKata
 {
     public class TennisGameTests
     {
@@ -24,9 +24,8 @@ namespace TennisKata2
         [Fact]
         public void ShouldReportScoreAsLoveAllWhenNeitherPlayersHaveAnyPoints()
         {
-            //act
-            var score = tennisGame.GetScore();
             //assert
+            var score = tennisGame.GetScore();
             Assert.Equal("love - all", score);
         }
 
